@@ -143,7 +143,7 @@ DataLens/
 
 ## 👨‍💻 About the Developer
 
-**TG** — Aspiring Data Scientist
+**TG** — Aspiring Software Developer, currently enrolled in Southern New Hampshire University for my BS in Computer Science 😊
 
 Building real-world data science projects to develop skills in Python, statistics, machine learning, and data visualization.
 
